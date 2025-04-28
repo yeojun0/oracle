@@ -1,2 +1,2 @@
 # oracle
-It's for oracle.
+This is my first Github for oracle.
